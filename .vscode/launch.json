@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/download/MyCTMLib-master/AntiCheat/dapacker",
-      "program": "d:/download/MyCTMLib-master/AntiCheat/dapacker/build/Debug/outDebug",
+      "cwd": "d:/download/MyCTMLib-master/dapacker/dapacker",
+      "program": "d:/download/MyCTMLib-master/dapacker/dapacker/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
